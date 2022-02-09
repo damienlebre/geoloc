@@ -1,0 +1,14 @@
+
+body{
+background-color: lightgray; 
+}
+   
+h1{
+    text-align: center;
+}
+
+#carte_france{
+    height: 575px;
+    width: 750px;
+
+}
